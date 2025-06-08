@@ -12,5 +12,6 @@ Proyectos personales:
 - 🔐 [Login con 2FA (Node.js + Vue.js)](https://github.com/tuusuario/repositorio-login)
 - 📷 [Reconocimiento facial y deteccion de objetos (Python)](https://github.com/tuusuario/repositorio-facial)
 - 🍕 [Pagina de para Restaurante (HTML + CSS)](https://github.com/tuusuario/repositorio-facial)
+- 🎮 [Juego 3D Escape Room (Unreal Engine)](https://drive.google.com/file/d/1XBCPVYd4kyXT8-iGeKdFKIYAlhV5j-D0/view?usp=sharing)
 
 🔗 Puedes contactarme en [LinkedIn](www.linkedin.com/in/edgardla)
