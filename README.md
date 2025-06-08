@@ -8,9 +8,9 @@ Desarrollador en formación con conocimientos en:
 - Herramientas: Postman, Git, GitHub Desktop  
 
 Proyectos personales:
-- 🧾 [Pagina de pedidos (Vue.js + APIs)](https://github.com/tuusuario/repositorio-kanban)
-- 🔐 [Login con 2FA (Node.js + Vue.js)](https://github.com/tuusuario/repositorio-login)
-- 📷 [Reconocimiento facial y deteccion de objetos (Python)](https://github.com/tuusuario/repositorio-facial)
+- 🧾 [Pagina de pedidos (Vue.js + APIs)]()
+- 🔐 [Login con 2FA (Node.js + Vue.js)]()
+- 📷 [Reconocimiento facial y deteccion de objetos (Python)]()
 - 🍕 [Pagina de para Restaurante (HTML + CSS)](https://github.com/tuusuario/repositorio-facial)
 - 🎮 [Juego 3D Escape Room (Unreal Engine)](https://github.com/EdgarDLA/VON.git)
 
