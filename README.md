@@ -10,7 +10,7 @@ Desarrollador en formación con conocimientos en:
 Proyectos personales:
 - 🧾 [Pagina de pedidos (Vue.js + APIs)]()
 - 🔐 [Login con 2FA (Node.js + Vue.js)]()
-- 📷 [Reconocimiento facial y deteccion de objetos (Python)]()
+- 📷 [Reconocimiento facial y deteccion de objetos (Python)](https://github.com/EdgarDLA/Reconocimiento-Facial-y-Deteccion.git)
 - 🍕 [Pagina de para Restaurante (HTML + CSS)](https://github.com/EdgarDLA/Pagina-Restaurante.git)
 - 🎮 [Juego 3D Escape Room (Unreal Engine)](https://github.com/EdgarDLA/VON.git)
 
